@@ -84,5 +84,5 @@
 
 <b>COPY DEPLOY CODE</b></br>
 
-<a href="https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z/499"><img src="https://img.shields.io/badge/COPY%20DEPLOY%20CODE-red"  width="350"></a>
+<a href="https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z/499"><img .src="https://img.shields.io/badge/COPY%20DEPLOY%20CODE-red"  width="350"></a>
 
